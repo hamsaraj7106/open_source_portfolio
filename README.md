@@ -5,10 +5,9 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 ## PantryNode
 
 ### Highlights
-
-1. [**Migrate to PostgreSQL**](https://github.com/ChicoState/PantryNode/issues/23): I worked on migrating the database from MongoDB to PostgreSQL, collaborated with other contributors.
-2. [**Migrate Routes from MongoDB to PostgreSQL**](https://github.com/ChicoState/PantryNode/issues/61): I implemented the functionality in `/home` route to show the expiring items.
-3. [**Get API Summary**](https://github.com/ChicoState/PantryNode/pull/159): I implemented functionality for these `/purchases`, `/currentstock`, `/wastemanagement`, `/soontoexpire` routes.
+1. [**Get API Summary**](https://github.com/ChicoState/PantryNode/pull/159): I implemented functionality for these `/purchases`, `/currentstock`, `/wastemanagement`, `/soontoexpire` routes.
+2. [**Migrate to PostgreSQL**](https://github.com/ChicoState/PantryNode/issues/23): I worked on migrating the database from MongoDB to PostgreSQL, collaborated with other contributors.
+3. [**Migrate Routes from MongoDB to PostgreSQL**](https://github.com/ChicoState/PantryNode/issues/61): I implemented the functionality in `/home` route to show the expiring items.
 
 ### Timeline
 
@@ -28,5 +27,5 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 - Reviewed [Add Stock Route to Return Current Inventory](https://github.com/ChicoState/PantryNode/pull/154), closes [#113], PR [#154].
 - Reviewed [Added Structure and Example for Backend API](https://github.com/ChicoState/PantryNode/pull/148) [#141], PR [#148].
 
-#### Sprint 5 (04/23/2023 - 05/  /2023)
+#### Sprint 5 (04/23/2023 - 05/16/2023)
 - Reviewed [README Update](https://github.com/ChicoState/PantryNode/pull/220), PR [#220].
