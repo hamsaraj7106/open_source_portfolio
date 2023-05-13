@@ -29,3 +29,4 @@ This is the timeline of my open source contributions starting from 02/26/2023.
 
 #### Sprint 5 (04/23/2023 - 05/16/2023)
 - Reviewed [README Update](https://github.com/ChicoState/PantryNode/pull/220), PR [#220].
+- Reviewed [Feed testing for frontend](https://github.com/ChicoState/PantryNode/pull/242), PR [#242]
